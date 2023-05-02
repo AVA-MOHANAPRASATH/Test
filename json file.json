@@ -1,0 +1,12 @@
+{
+    "family": "lin-NP-USW1-TF",
+    "containerDefinitions": [
+        {
+            "name": "C1
+            "image": "mohanaprasath/frontend:$(Build.BuildId)"
+        }
+    ],
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+}

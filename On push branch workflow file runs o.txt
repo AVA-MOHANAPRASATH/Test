@@ -1,0 +1,11 @@
+On push branch: workflow file runs on every push made to the specified branch 
+with- necessary inputs to that action 
+Action- The set of works to be done
+v1, v2- versions 
+echo- to print the message
+
+Queue- single queue for infra and end-user
+DevOps- queue called as ops queue
+CP queue- for customer portal 
+Orion - config, dashboard, report
+	
